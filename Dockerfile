@@ -1,1 +1,1 @@
-FROM starlingx/stx-glance:dev-centos-master-latest
+FROM starlingx/stx-glance:dev-centos-pike-latest
