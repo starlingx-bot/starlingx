@@ -1,1 +1,1 @@
-FROM starlingx/stx-glance:f-stein-centos-master-latest
+FROM starlingx/stx-glance:master-centos-dev-latest
